@@ -1,3 +1,3 @@
 name = input()
-print('Добро пожаловать в DigHum, ' + name)
-Василий
+print('Welcome to DH, ' + name)
+
